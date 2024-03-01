@@ -1,4 +1,4 @@
-# Minesweeper
-Retro game Minesweeper with console display
+# Demineur
+Jeu rétro Démineur avec un affichage console
 
-This was made with Apache NetBeans IDE 12.6
+Fait avec Apache NetBeans IDE 12.6
